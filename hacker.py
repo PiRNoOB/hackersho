@@ -18,7 +18,9 @@ time.sleep(1)
 print("Start Hacking")
 time.sleep(3)
 i=2
- while>100000
+ while>(i > 100000): 
+ j=2
+ while(j <= (i/j)):
  if not(i%j):break
  j=j+1
  if(j>i/j)print(i,"Ersal virus to "+target)
