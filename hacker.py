@@ -17,13 +17,13 @@ print("Connecting To " + target)
 time.sleep(1)
 print("Start Hacking")
 time.sleep(3)
-i=2
- while(i < 1000000): 
- j=2
- while(j <= (i/j)):
- if not(i%j): break
- j=j+1
- if(j > i/j) : print (i, "Ersal virus to " + target)
+while(i < 1000000):
+   j = 2
+   while(j <= (i/j)):
+      if not(i%j): break
+      j = j + 1
+   if (j > i/j) : print (i, "Aresal VIRUS TO " + target)
+   i = i + 1
  time.sleep(1)
  print("target :"+target)
  print("status : HACKED!" )
