@@ -1,6 +1,5 @@
 import os
 import time
-#BATAS GAN
 print("sakhete shode tvsot : ")
 time.sleep(1)
 print("script by Aref Ramezani")
